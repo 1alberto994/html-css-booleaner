@@ -14,3 +14,14 @@
 .evidenziare{
     background-color: yellow;
 }
+.prima-parte{
+    background-color: blue;
+    border-color: blue;
+    border: 20px;
+}
+.seconda-parte{
+    background-color: rgb(68, 125, 231);
+}
+.terza-parte{
+    background-color: rgb(0, 110, 255);
+}
