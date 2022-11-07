@@ -10,7 +10,23 @@
     background-color: rgb(43, 151, 223);
     background-repeat: repeat;
     background-image: url(img/pattern.png);
+
+}
+.margine{
+    margin-left: 20%;
+}
+.margini{
+    margin-left: 20%;
+}
+.titolone{
+    width: 400px;
     height: 100px;
+    text-align: center;
+    margin-left: 30%;
+}
+.secondo-titolo{
+    text-align: center;
+    margin-top: 50px;
 }
 .the-booleaner{
     color: rgb(0, 217, 255);
@@ -21,7 +37,7 @@
 .prima-parte{
     background-color: blue;
     border-color: blue;
-    border: 20px;
+   border-spacing: 0mm;
 }
 .seconda-parte{
     background-color: rgb(68, 125, 231);

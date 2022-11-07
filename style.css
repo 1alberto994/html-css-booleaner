@@ -1,9 +1,11 @@
 #logo{
     width: 100px;
     
+    
 }
 .logo-img{
     width: 100%;
+    text-align: right;
 }
 .contenitore{
     background-size: contain;
@@ -18,10 +20,11 @@
 .evidenziare{
     background-color: yellow;
 }
+
 .prima-parte{
     background-color: blue;
-    border-color: blue;
-    border: 20px;
+    
+    
 }
 .seconda-parte{
     background-color: rgb(68, 125, 231);
@@ -54,3 +57,4 @@
 .scritta{
     color: white;
 }
+
