@@ -11,6 +11,9 @@
 .contenitore{
     background-size: contain;
 }
+.the-booleaner{
+    color: rgb(0, 217, 255);
+}
 .evidenziare{
     background-color: yellow;
 }
@@ -24,4 +27,7 @@
 }
 .terza-parte{
     background-color: rgb(0, 110, 255);
+}
+#testo{
+    color: grey;
 }
