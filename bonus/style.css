@@ -1,0 +1,56 @@
+#logo{
+    width: 100px;
+    
+}
+.logo-img{
+    width: 100%;
+}
+.contenitore{
+    background-size: contain;
+    background-color: rgb(43, 151, 223);
+    background-repeat: repeat;
+    background-image: url(img/pattern.png);
+    height: 100px;
+}
+.the-booleaner{
+    color: rgb(0, 217, 255);
+}
+.evidenziare{
+    background-color: yellow;
+}
+.prima-parte{
+    background-color: blue;
+    border-color: blue;
+    border: 20px;
+}
+.seconda-parte{
+    background-color: rgb(68, 125, 231);
+}
+
+#testo{
+    color: grey;
+}
+
+
+.col{
+    width: 50%;
+}
+.contenitore-secondo{
+    background-image: url(img/monitor.jpg);
+    background-repeat: no-repeat;
+    
+}
+.titolo{
+    height: 250px;
+
+}
+.contenitore-terzo{
+    background-image: url(img/graph.jpg);
+    background-repeat: no-repeat;
+}
+.titolo-secondo{
+    height: 250px;
+}
+.scritta{
+    color: white;
+}
